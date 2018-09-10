@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">くられぽ</string>
+    <string name="title_day">Day</string>
+    <string name="title_home">home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_save">Save</string>
+    <string name="err_not_input_period">時限がチェックされていません</string>
+    <string name="err_check_permission1">失敗しました 書き込み権限等を確認してください1</string>
+    <string name="err_check_permission2">失敗しました 書き込み権限等を確認してください2</string>
+    <string name="err_not_input">失敗 空欄があります</string>
+    <string name="write_end">書き込み終わりました</string>
+</resources>
